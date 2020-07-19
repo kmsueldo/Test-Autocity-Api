@@ -98,7 +98,7 @@ Status code 200
 
 3. CONSULTA DE RESTAURANTES DEL MISMO TIPO
 
-#### GET /api/v1/restaurants/{restaurant}
+#### GET /api/v1/restaurants/{kindOfRestaurant}
 
 Ejemplo de respuesta de la peticion
 Status 200
