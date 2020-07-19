@@ -31,8 +31,7 @@ Ejemplo de cuerpo de la peticion
 }
 ~~~
 
-Ejemplo de respuesta de la peticion
-Status code 201
+Ejemplo de respuesta de la peticion con status code 201
 
 ~~~
 [
@@ -57,9 +56,7 @@ Status code 201
 ]
 ~~~
 
-En caso de que el nombre del Restaurante ya exista
-Ejemplo de respuesta de la peticion
-Status code 400
+En caso de que el nombre del Restaurante ya exista. Ejemplo de respuesta de la peticion con status code 400
 
 ~~~
 {
@@ -71,8 +68,7 @@ Status code 400
 
 #### GET /api/v1/restaurants
 
-Ejemplo de respuesta de la peticion
-Status code 200
+Ejemplo de respuesta de la peticion con status code 200
 ~~~
 [
     {
@@ -100,8 +96,7 @@ Status code 200
 
 #### GET /api/v1/restaurants/{kindOfRestaurant}
 
-Ejemplo de respuesta de la peticion
-Status 200
+Ejemplo de respuesta de la peticion con status code 200
 
 ~~~
 [
